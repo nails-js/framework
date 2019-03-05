@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A CLI driven framework for rapidly creating web applications.",
   "main": "index.js",
+  "bin": {
+    "nails": "index.js"
+  },
   "scripts": {
     "test": "test"
   },
